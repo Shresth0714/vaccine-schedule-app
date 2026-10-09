@@ -14,7 +14,7 @@ st.set_page_config(page_title="Vaccine Chart Generator", layout="centered")
 st.title("Vaccination Chart Generator")
 st.caption("National Immunisation Schedule — India")
 
-# Input Form
+# Input
 with st.container():
     c1, c2 = st.columns(2)
     with c1:
